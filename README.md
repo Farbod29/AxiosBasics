@@ -1,6 +1,6 @@
 ### Axios Basic
 
-GET POST requset github tutorial Udemy! 
+GET/POSTrequset #github #tutorial #Udemy! 
 this project is base on Axios /Ajax request Http communication with the dummy server the root of the applicatiuon is React create app muster.
 
 Below you will find some information on how to perform common tasks.<br>
